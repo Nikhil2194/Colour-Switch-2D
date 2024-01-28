@@ -8,4 +8,4 @@ Features:
 - Unity-based project for easy customization.
 - Match color by jumping same as color as player and will increase the score if same color is collided
 
-Workinng Video - https://drive.google.com/file/d/1gdZyzwqeAFZjlcr57ZmWze9hyv7YZ2ZZ/view?usp=sharing
+Working Video - https://drive.google.com/file/d/1gdZyzwqeAFZjlcr57ZmWze9hyv7YZ2ZZ/view?usp=sharing
